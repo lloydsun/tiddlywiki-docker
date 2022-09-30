@@ -12,9 +12,9 @@ Hub](https://hub.docker.com/r/m0wer/tiddlywiki).
 
 Image Name       | Tag        | TiddyWiki Version
 -----------------|------------|------------------
-m0wer/tiddlywiki | latest     | 5.2.0
-m0wer/tiddlywiki | v[X]       | [X]
-m0wer/tiddlywiki | test       | ?
+lloydsun/tiddlywiki | latest     | 5.2.3
+lloydsun/tiddlywiki | v[X]       | [X]
+lloydsun/tiddlywiki | test       | ?
 
 ## Prerequisites
 
