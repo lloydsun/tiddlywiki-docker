@@ -2,11 +2,14 @@
 
 Run TiddlyWiki 5 via Docker.
 
-Forked from
+Origin:
 [djmaze/tiddlywiki-docker](https://github.com/djmaze/tiddlywiki-docker).
 
-The Docker image is available at [m0wer/tiddlywiki - Docker
-Hub](https://hub.docker.com/r/m0wer/tiddlywiki).
+Forked from
+[m0wer/tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker).
+
+The Docker image is available at [lloydsun/tiddlywiki - Docker
+Hub](https://hub.docker.com/r/lloydsun/tiddlywiki).
 
 ## Available Docker Images at DockerHub
 
